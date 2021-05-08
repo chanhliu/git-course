@@ -1,2 +1,2 @@
 Second file in Git repository
-Modifed from remote
+Modifed from remote remote again
