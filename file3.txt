@@ -1,3 +1,1 @@
-This is third file in our Git repository
-New line local aaaa
-local again
+This is from remote
